@@ -18,7 +18,7 @@
 }
 
 .header__link {
-  font-family: fantasy, cursive;
+  font-family: "Papyrus", "URW Bookman", fantasy, cursive;
 }
 
 @media (max-width: 768px) {
